@@ -4,7 +4,9 @@
 
 Team project for MMA 860 (The Acquisition and Management of Data), Master of Management Analytics, Smith School of Business, Queen's University.
 
-📄 **[Read the full report (PDF)](report/Toronto_Airbnb_Pricing_Report.pdf)** · 💻 **[View the analysis notebook](notebooks/Airbnb_Toronto_Analysis.ipynb)**
+📊 **[View the interactive Tableau dashboard](https://public.tableau.com/views/TorontoAirbnbPricingDashboard/TorontoAirbnbDashboard)** · 📄 **[Read the full report (PDF)](report/Toronto_Airbnb_Pricing_Report.pdf)** · 💻 **[View the analysis notebook](notebooks/Airbnb_Toronto_Analysis.ipynb)**
+
+[![Tableau dashboard](figures/00_tableau_dashboard.png)](https://public.tableau.com/views/TorontoAirbnbPricingDashboard/TorontoAirbnbDashboard)
 
 ---
 
@@ -102,7 +104,7 @@ The train/test split uses a fixed random seed (42), so every number in the repor
 
 ## Tools
 
-Python (pandas, NumPy, statsmodels, SciPy, Plotly) · OLS regression · Wald / F-tests · Chow test · Breusch-Pagan · VIF · Cook's Distance
+Python (pandas, NumPy, statsmodels, SciPy, Plotly) · Tableau Public · OLS regression · Wald / F-tests · Chow test · Breusch-Pagan · VIF · Cook's Distance
 
 ## Team
 
